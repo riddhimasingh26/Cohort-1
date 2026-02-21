@@ -32,12 +32,52 @@
 // console.log(x)
 // var x = 12;
 
+// {
+//     let x = 10;
+//     console.log(x)
+//     {
+//         console.log(x)
+//         let x = 12
+//         console.log(x)
+//     }
+// }
+
+// function getName(){
+//     var name = "Dhoni"
+//     console.log(name)
+// }
+// console.log(name)
+
+// if(true){
+//     var name = "Prasanjit"
+// }
+// console.log(name)
+
+// {
+//     if(true){
+//         let name = "Prasanjit"
+//         console.log(name)
+//         name = "Cohurt"
+//         console.log(name)
+//     }
+//     console.log(name)
+// }
+// console.log(name)
+
+// let age = 22
+// const age = "Prasanjit"
+// hoisting
+// console.log(name)
+// {
+//     let name = "Prasanjit"
+// }
+
 {
-    let x = 10;
-    console.log(x)
+    let name = "Prasanjit"
+    console.log(name)
     {
-        console.log(x)
-        let x = 12
-        console.log(x)
+        console.log(name);
+        let name = "PJ"
+        console.log(name) 
     }
 }
