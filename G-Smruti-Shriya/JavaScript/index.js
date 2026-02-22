@@ -15,9 +15,20 @@ console.log(age)
 
 function Varname(){
     var age = 48
+    console.log(age)
 }
-console.log(age)
+Varname()
+
 
 //let
 let nme = "G Smruti Shriya"
 console.log(nme)
+
+//const kinda works like private in java
+const nm = "Smruti"
+nm = "heyy"
+console.log(nm)
+ // This throws a error message cause we try to re assign it
+
+ //We continued on these principals for a while
+ 
