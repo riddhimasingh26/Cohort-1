@@ -1,3 +1,6 @@
+
+// CLASS 1 (20.02.26)
+
 //var
 var a = "Hii";  // DYNAMIC TYPING !!
 console.log("Hello World")
