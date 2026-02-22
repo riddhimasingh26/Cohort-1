@@ -13,22 +13,20 @@
 // const x ;// yeh nahi likh sakte hai because same line mai initialize bhi karna hota hai;
 //var in global scope in functional scope
 // {
-//     const z = 11;
-//     let y = 10;
-//     var x = 10;
+    //     let y = 10;
+    //     var x = 10;
+    //     const z = 11;
 //     console.log(x);
 //     console.log(z);
-// }
 // console.log(x);
 {
+    // }
     let x = 10;
+    console.log(x)
     {
-        console.log(x)
-        let x = 10;
+        let x = 12*5;
+        x= x*5
         console.log(x)
     }
     console.log(x)
 }
-
-
-
