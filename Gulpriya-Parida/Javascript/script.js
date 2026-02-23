@@ -45,7 +45,9 @@ function print(a,b){
 
 // const fun =()=>{
 //     console.log("arrow")
-// }
+
+
+
 
 //High order function
 // function ho(a,b,cb){ //cb is callback func
